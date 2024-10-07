@@ -1,0 +1,65 @@
+.book-card{
+    /* border: 10px solid black; */
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 620px;
+    padding:20px ;
+
+}
+button{
+    margin: 10px;
+}
+.api-card{
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    /* border: 10px solid black; */
+    margin: 10px;
+}
+.headers{
+    display: flex;
+    
+    /* border: solid 10px black; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 50px;
+    /* margin: 50px; */
+}
+span{
+    display: flex;
+    /* margin-right: 100px; */
+}
+li{
+    margin-right: 100px;
+    font-size: larger;
+}
+.main-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.add_book{
+    display:  flex;
+    border: 10px solid black;
+    margin: 10px;
+    
+}
+
+.book-mai{
+    /* background-color:  aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.fin-card{
+    margin: 20px;
+}
